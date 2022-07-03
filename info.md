@@ -17,3 +17,9 @@
 * git push – отправляет локальную версию репозитория на внешний.
 
 * git commit - am "comment" - добавляет и сохраняет коммит.
+
+* git branch "branch_name"- создание ветки.
+
+* git checkout "branch_name" -переход на другую ветку.
+
+* git checkout master - переход на основную ветку.
