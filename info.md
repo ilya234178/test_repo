@@ -23,3 +23,5 @@
 * git checkout "branch_name" -переход на другую ветку.
 
 * git checkout master - переход на основную ветку.
+
+* git log --graph - просмотр всех веток репозитория.
